@@ -18,9 +18,9 @@ img {
 }
 
 button {
-  border: none;
-  border-radius: 50px;
-  background-color: cyan;
-  padding: 15px 25px;
-  font-size: 20px;
+  border-color: lightgray;
+  border-radius: 30px;
+  background-color: lightgrey;
+  padding: 7px 10px;
+  font-size: 15px;
 }
