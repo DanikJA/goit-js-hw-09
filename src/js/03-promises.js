@@ -47,7 +47,6 @@
 // });
 
 
-
 import Notiflix from 'notiflix';
 
 
